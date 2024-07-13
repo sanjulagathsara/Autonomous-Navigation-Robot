@@ -2,10 +2,14 @@
 
 ## ABOUT
 Project by : Sanjula Gathsara
+<br />
 Index No : 210180L
+<br />
 For : Embedded Systems Project Module
-
+<br />
+<p>
 This project mainly focused on creating a LIDAR based Autonomous Navigation Robot for Hotels and other mini transportation systems.
+</p>
 
 ## High Level System Diagram
 
