@@ -1,4 +1,4 @@
-# LIDAR-Based-Autonomous-Navigation-Robot
+# LIDAR Based Autonomous Navigation Robot
 
 ## ABOUT
 Project by : Sanjula Gathsara
