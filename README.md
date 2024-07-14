@@ -55,7 +55,7 @@ This project mainly focused on creating a LIDAR based Autonomous Navigation Robo
 </p> 
 <br/>
 <p align="center">
-<img width="432" height="400" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/Motor_Driver_Circuit_Diagram.png">
+<img width="800" height="400" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/Motor_Driver_Circuit_Diagram.png">
   <p align="center">
     <em>A4988 Circuit Diagram</em>
     </p> 
