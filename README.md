@@ -26,3 +26,15 @@ This project mainly focused on creating a LIDAR based Autonomous Navigation Robo
     <em>Top View</em>
     </p> 
 </p>  
+
+
+## HARDWARE
+
+### LIDAR Sensor
+<p>RPLIDAR</p>
+
+
+## RESOURCES
+
+<p>RPLIDAR Setting Up - <h>https://youtu.be/VhbFbxyOI1k</h></p>
+<p>RPLidar and Hector SLAM for Beginners - <h>https://www.youtube.com/watch?v=Qrtz0a7HaQ4&t=193s</h></p>
