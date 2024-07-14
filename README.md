@@ -38,7 +38,7 @@ This project mainly focused on creating a LIDAR based Autonomous Navigation Robo
 <p>NEMA17 Stepper Motor ( 42SHDC3025-24B ) - <h>https://reprap.org/wiki/NEMA_17_Stepper_motor</h></p>
 <br/>
 <p align="center">
-<img width="432" height="400" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/Stepper_Motor.jpeg?raw=true">
+<img width="400" height="400" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/Stepper_Motor.jpeg?raw=true">
   <p align="center">
     <em>Nema 17 Stepper Motor</em>
     </p> 
