@@ -32,6 +32,12 @@ This project mainly focused on creating a LIDAR based Autonomous Navigation Robo
 
 ### LIDAR Sensor
 <p>RPLIDAR</p>
+<br/>
+
+### MOTORS
+<p>NEMA17 Stepper Motor ( 42SHDC3025-24B ) - <h>https://reprap.org/wiki/NEMA_17_Stepper_motor</h></p>
+<br/>
+
 
 
 ## RESOURCES
