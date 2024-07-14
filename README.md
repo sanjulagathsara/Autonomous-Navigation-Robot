@@ -45,12 +45,19 @@ This project mainly focused on creating a LIDAR based Autonomous Navigation Robo
 </p>  
 
 ### MOTOR DRIVER
-<p>A4988 Stepper Motor Driver - <h>https://reprap.org/wiki/NEMA_17_Stepper_motor](https://www.youtube.com/watch?v=7spK_BkMJys&t=1450s</h></p>
+<p>A4988 Stepper Motor Driver - <h>https://www.youtube.com/watch?v=7spK_BkMJys&t=1450s</h></p>
 <br/>
 <p align="center">
-<img width="432" height="400" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/Stepper_Motor.jpeg?raw=true">
+<img width="400" height="400" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/Stepper_Motor_Driver.jpeg">
   <p align="center">
     <em>A4988 Stepper Motor Driver</em>
+    </p> 
+</p> 
+<br/>
+<p align="center">
+<img width="432" height="400" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/Motor_Driver_Circuit_Diagram.png">
+  <p align="center">
+    <em>A4988 Circuit Diagram</em>
     </p> 
 </p> 
 
