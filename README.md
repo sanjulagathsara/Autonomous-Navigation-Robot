@@ -61,6 +61,25 @@ This project mainly focused on creating a LIDAR based Autonomous Navigation Robo
     </p> 
 </p> 
 
+### HARDWARE PROTOTYPE
+<p>Successfully implemented hardware prototype for the AutoNav Bot</p>
+<br/>
+<p align="center">
+<img width="400" height="550" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/hardware_prototype.png">
+  <p align="center">
+    <em>Hardware Prototype</em>
+    </p> 
+</p> 
+
+### LIDAR VISUALIZER
+<p>This is the visualizer implemented for LD19 Lidar using python in Raspberry pi 5. Video feed captured from Raspberry pi connect</p>
+<br/>
+<p align="center">
+<img width="400" height="500" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/lidar_visualizer.jpg">
+  <p align="center">
+    <em>Lidar Visualizer</em>
+    </p> 
+</p> 
 
 
 ## RESOURCES
