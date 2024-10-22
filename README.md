@@ -12,6 +12,13 @@ This project mainly focused on creating a LIDAR based Autonomous Navigation Robo
 </p>
 
 ## High Level System Diagram
+### 3D Design
+<p align="center">
+<img width="300" height="400" src="https://github.com/sanjulagathsara/Autonomous-Navigation-Robot/blob/main/IMG/3DSketch.png?raw=true" text="3D Design">
+  <p align="center">
+    <em>3D Design</em>
+    </p> 
+</p>
 
 ### Hardware Sketch
 <p align="center">
